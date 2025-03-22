@@ -1,1 +1,1 @@
-# ventana-de-un-sistema-de-gesti-n-para-una-finca-ganadera.
+# Registro de animales
